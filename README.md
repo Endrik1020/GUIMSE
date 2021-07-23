@@ -1,4 +1,4 @@
-# GUIMS
+
 # Aplikasi Penghitung Nilai MSE , RMSE , dan PSNR
 ~~~
 Nama  : Endrik
