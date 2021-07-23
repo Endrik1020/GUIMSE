@@ -427,4 +427,5 @@ Coba klik run dan jalankan aplikasinya . Semoga berhasil
 Goodluck .
 # Tampilan GUI setelah di RUN
 ![2](https://user-images.githubusercontent.com/81820421/126809827-3f8e069d-12fb-4913-93c2-971803728b3c.png)
+Ini adalah hasil dari proses aplikasi yang sudah berjalan . Bisa menghitung Nilai MSE , RMSE , dan PSNR pada citra greyscale.
 
