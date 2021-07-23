@@ -412,7 +412,11 @@ function popupmenu1_DeleteFcn(hObject, eventdata, handles)
 
 # Edit GUI guide agar setiap button punya perintah 
 Klik button klik kanan view callback back nanti menuju sourcode yang diperintah dan buatlah perintah dengan sourcod tsb . 
+![Untitled](https://user-images.githubusercontent.com/81820421/126809658-887c4bbe-6531-4fb3-9674-41bfe6021b9d.png)
 
-# Setelah usdah tersambung 
+# Setelah sudah  tersambung 
 Coba klik run dan jalankan aplikasinya . Semoga berhasil 
 Goodluck .
+# Tampilan GUI setelah di RUN
+![2](https://user-images.githubusercontent.com/81820421/126809827-3f8e069d-12fb-4913-93c2-971803728b3c.png)
+
