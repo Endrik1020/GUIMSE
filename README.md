@@ -7,9 +7,14 @@ Kelas : TI.19.C1
 ~~~
 # Persiapan 
 Buka Aplikasi Matlab dan Buatlah GUI layout yang kalian suka.
+ini contoh yang saya buat .
+![3](https://user-images.githubusercontent.com/81820421/126810659-68ff2533-4984-4fcb-8acb-3cac98fd5c34.png)
+
 
 # Input script sourcode 
 Input sourcode yang dibawah 
+![4](https://user-images.githubusercontent.com/81820421/126810773-d6371fb2-fc1c-4769-86b4-f061f211f735.png)
+
 ~~~
 function varargout = cekk(varargin)
 % CEKK MATLAB code for cekk.fig
